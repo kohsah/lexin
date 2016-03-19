@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia/images" version="1" owner="lexindia" group="lexindia" mode="755" created="2016-03-18T16:17:21.977+05:30">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="pic05.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.127+05:30" modified="2016-03-18T16:17:22.127+05:30" filename="pic05.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="laws_x32.png" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-19T01:14:01.275+05:30" modified="2016-03-19T01:14:01.275+05:30" filename="laws_x32.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic03.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.084+05:30" modified="2016-03-18T16:17:22.084+05:30" filename="pic03.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic04.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.105+05:30" modified="2016-03-18T16:17:22.105+05:30" filename="pic04.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic10.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.295+05:30" modified="2016-03-18T16:17:22.295+05:30" filename="pic10.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic06.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.16+05:30" modified="2016-03-18T16:17:22.16+05:30" filename="pic06.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic07.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.217+05:30" modified="2016-03-18T16:17:22.217+05:30" filename="pic07.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic08.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.242+05:30" modified="2016-03-18T16:17:22.242+05:30" filename="pic08.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic09.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.267+05:30" modified="2016-03-18T16:17:22.267+05:30" filename="pic09.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic02.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.06+05:30" modified="2016-03-18T16:17:22.06+05:30" filename="pic02.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic01.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.037+05:30" modified="2016-03-18T16:17:22.037+05:30" filename="pic01.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic11.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.318+05:30" modified="2016-03-18T16:17:22.318+05:30" filename="pic11.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic13.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.363+05:30" modified="2016-03-18T16:17:22.363+05:30" filename="pic13.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.014+05:30" modified="2016-03-18T16:17:22.014+05:30" filename="header.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic15.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.415+05:30" modified="2016-03-18T16:17:22.415+05:30" filename="pic15.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic12.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.339+05:30" modified="2016-03-18T16:17:22.339+05:30" filename="pic12.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pic14.jpg" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:22.386+05:30" modified="2016-03-18T16:17:22.386+05:30" filename="pic14.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia" version="1" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:32:59.875+05:30">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="test.xql" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-04T10:58:51.678+05:30" modified="2016-03-04T11:02:22.798+05:30" filename="test.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="view-lex.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-19T01:40:11.643+05:30" modified="2016-03-19T01:40:13.942+05:30" filename="view-lex.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.881+05:30" modified="2016-03-02T23:33:01.082+05:30" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.887+05:30" modified="2016-03-02T23:33:01.222+05:30" filename="repo.xml" mimetype="text/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="build.xml" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.128+05:30" modified="2016-03-02T23:33:01.062+05:30" filename="build.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index.html" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.914+05:30" modified="2016-03-18T19:28:40.932+05:30" filename="index.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="error-page.html" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.92+05:30" modified="2016-03-02T23:33:01.076+05:30" filename="error-page.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.936+05:30" modified="2016-03-02T23:33:01.069+05:30" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:32:59.927+05:30" modified="2016-03-02T23:33:01.072+05:30" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:32:59.906+05:30" modified="2016-03-02T23:33:01.093+05:30" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lex.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-03T11:11:11.628+05:30" modified="2016-03-03T11:11:50.125+05:30" filename="lex.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="docs" filename="docs"/>
+    <subcollection name="images" filename="images"/>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="assets" filename="assets"/>
+</collection>

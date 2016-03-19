@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia/assets/js" version="1" owner="lexindia" group="lexindia" mode="755" created="2016-03-18T16:17:06.602+05:30">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.min.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.773+05:30" modified="2016-03-18T16:17:06.773+05:30" filename="jquery.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="skel.min.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.912+05:30" modified="2016-03-18T16:17:06.912+05:30" filename="skel.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="main.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.894+05:30" modified="2016-03-18T16:17:06.894+05:30" filename="main.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.scrolly.min.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.839+05:30" modified="2016-03-18T16:17:06.839+05:30" filename="jquery.scrolly.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.onvisible.min.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.814+05:30" modified="2016-03-18T16:17:06.814+05:30" filename="jquery.onvisible.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dropotron.min.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.749+05:30" modified="2016-03-18T16:17:06.749+05:30" filename="jquery.dropotron.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="util.js" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T16:17:06.942+05:30" modified="2016-03-18T16:17:06.942+05:30" filename="util.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="ie" filename="ie"/>
+</collection>

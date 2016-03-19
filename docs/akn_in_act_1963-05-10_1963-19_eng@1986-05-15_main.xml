@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 file:/D:/gdrive/PERSONAL/Masters/Dissertation/akn-core-v1.0-csprd01/part2-specs/schemas/akomantoso30.xsd">
+    <act name="act">
+        <meta>
+
+            <identification source="#indiacode">
+                <FRBRWork>
+                    <FRBRthis value="/akn/in/act/1963-05-10/1963-19/main"/>
+                    <FRBRuri value="/akn/in/act/1963-05-10/1963-19"/>
+                    <FRBRdate date="1963-05-10" name="Generation"/>
+                    <FRBRauthor href="#ashok" as="#author"/>
+                    <FRBRcountry value="in"/>
+                    <FRBRnumber value="1963-19"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/in/act/1963-05-10/1963-19/eng@1986-05-15/main"/>
+                    <FRBRuri value="/akn/in/act/1963-05-10/1963-19/eng@1986-05-15"/>
+                    <FRBRdate date="1986-05-15" name="Generation"/>
+                    <FRBRauthor href="#ashok" as="#editor"/>
+                    <FRBRlanguage language="eng"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/in/act/1963-05-10/1963-19/eng@1986-05-15/main.xml"/>
+                    <FRBRuri value="/akn/in/act/1963-05-10/1963-19/eng@1986-05-15.akn"/>
+                    <FRBRdate date="1986-05-15" name="Generation"/>
+                    <FRBRauthor href="#ashok" as="#editor"/>
+                    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+
+            <publication date="1963-05-10" showAs="Official Languages Act" name="officialLanguagesAct" number="1963-19"/>
+
+            <lifecycle source="#ashok">
+                <eventRef eId="event_1" date="1963-05-10" source="#ro1" type="generation"/>
+                <eventRef eId="event_2" date="1986-05-15" source="#ro1" type="amendment"/>
+                <eventRef eId="event_3" date="1963-01-10" source="#ro1" type="generation"/>
+                <eventRef eId="event_4" date="1969-05-19" source="#ro1" type="generation"/>
+                <eventRef eId="event_5" date="1970-03-07" source="#ro1" type="generation"/>
+            </lifecycle>
+            <analysis source="#parliament">
+                
+                <passiveModifications>
+                    
+                    <efficacyMod eId="efmod_2" type="entryIntoEfficacy" period="#period_2">
+                        <source href="#sec_5__sse_1"/>
+                        <destination href="#sec_5__sse_1"/>
+                    </efficacyMod>
+                    
+                    <efficacyMod eId="efmod_1" type="entryIntoEfficacy" period="#period_3">
+                        <source href="#sec_6"/>
+                        <destination href="#sec_6"/>
+                    </efficacyMod>
+                    
+                                        
+                    <efficacyMod eId="efmod_3" type="entryIntoEfficacy" period="#period_4">
+                        <source href="#sec_7"/>
+                        <destination href="#sec_7"/>
+                    </efficacyMod>
+                    
+
+                    
+                    <textualMod type="substitution" eId="mod_1">
+                        <source href="/akn/in/act/1968-01-01/1968-1/eng@/main#sec_2"/>
+                        <destination href="#sec_3"/>
+
+                    </textualMod>
+                    <textualMod type="insertion" eId="mod_2">
+                        <source href="/akn/in/act/1968-01-01/1968-1/eng@/main#sec_3"/>
+                        <destination href="#sec_4__sse_4__mod_2"/>
+
+                    </textualMod>
+
+                    <textualMod type="substitution" eId="mod_4" period="#period_1">
+                        <source href="/akn/in/act/1986-01-01/1986-4/eng@/main#sec_2"/>
+                        <destination href="#sec_8__sse_2__mod_4"/>
+                    </textualMod>
+
+                </passiveModifications>
+            </analysis>
+
+            <temporalData source="#parliament">
+                <temporalGroup>
+                    <timeInterval eId="period_1" refersTo="#mod_4" start="#event_2"/>
+                    <timeInterval eId="period_2" refersTo="#efmod_1" start="#event_3"/>
+                    <timeInterval eId="period_3" refersTo="#efmod_2" start="#event_4"/>
+                    <timeInterval eId="period_4" refersTo="#efmod_3" start="#event_5"/>
+                </temporalGroup>
+            </temporalData>
+
+
+            <references source="#parliament">
+                <original eId="ro1" href="/akn/in/act/1963-05-10/1963-19/eng@/main" showAs="Original"/>
+            </references>
+            
+            <notes source="#editors-office">
+                <note eId="mod_note_2">
+                    <p>Subs. by Act 1 of 1968, s. 2, for s. 3.</p>
+                </note>
+                 <note eId="mod_note_3">
+                    <p>Ins. by Act 1 of 1968, s. 3.</p>
+                </note>
+                
+                <note eId="mod_note_4">
+                    <p>Subs. by Act 4 of 1986, s. 2 and sch. (w.e.f. 15.5.1986).</p>
+                </note>
+            </notes>
+        </meta>
+        <preface>
+            <p>
+                <docTitle refersTo="#shortTitle">THE OFFICIAL LANGUAGES ACT, 1963</docTitle>
+            </p>
+            <p>
+                <docNumber refersTo="#currentAct">ACT NO. 19 OF 1963</docNumber>
+            </p>
+            <p> [<docDate date="1963-05-10">10th May, 1963</docDate>.] </p>
+        </preface>
+        <preamble>
+            <p>
+                <docTitle refersTo="#longTitle">An Act to provide for the languages which may be
+                    used for the official purposes of the Union, for transaction of business in
+                    Parliament, for Central and State Acts and for certain purposes in High
+                    Courts.</docTitle>
+            </p>
+            <p> BE it enacted by Parliament in the Fourteenth Year of the Republic of India as
+                follows:--</p>
+
+        </preamble>
+        <body>
+
+            <section eId="sec_1">
+                <num> 1. </num>
+                <heading>Short title and commencement. </heading>
+                <subsection eId="sec_1__sse_1">
+                    <paragraph>
+                        <num>(1)</num>
+                        <content>
+                            <p>This Act may be called the Official Languages Act, 1963.</p>
+                        </content>
+                    </paragraph>
+                    <paragraph>
+                        <num>(2)</num>
+                        <content>
+                            <p>Section 3 shall come into force on the 26th day of January, 1965 and
+                                the remaining provisions of this Act shall come into force on such
+                                date as the Central Government may, by notification in the
+                                Official Gazette, appoint and different dates may be appointed for
+                                different provisions of this Act.</p>
+                        </content>
+                    </paragraph>
+                </subsection>
+            </section>
+
+            <section eId="sec_2">
+                    <num>2. </num>
+                    <heading>Definitions.</heading>
+                <intro>
+                    <p>In this Act, unless the context otherwise
+                        requires,--</p>
+                </intro>
+                <subsection eId="sec_2__sse_1">
+                    <num>(a)</num>
+                    <content>
+                        <p>"appointed day", in relation to section 3, means the 26th day of January,
+                            1965 and in relation to any other provision of this Act, means the day
+                            on which that provision comes into force;</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_2__sse_2">
+                    <num>(b)</num>
+                    <content>
+                        <p>"Hindi" means Hindi in Devanagari script.</p>
+                    </content>
+                </subsection>
+            </section>
+
+            <section eId="sec_3">
+                <num>
+                    <noteRef href="#mod_note_2" marker="2" placement="bottom"/>3.</num>
+                <heading>Continuance of English language for official purposes of the Union and for
+                    use in Parliament.</heading>
+                <subsection eId="sec_3__sse_1">
+                    <num>(1) </num>
+                    <intro>
+                        <p>Notwithstanding the expiration of the period of fifteen years from the
+                            commencement of the Constitution, the English language may, as from the
+                            appointed day, continue to be used, in addition to Hindi,--</p>
+                    </intro>
+                    <paragraph>
+                        <num>(a)</num>
+                        <content>
+                            <p>for all the official purposes of the Union for which it was being
+                                used immediately before that day; and</p>
+                        </content>
+                    </paragraph>
+                    <paragraph>
+                        <num>(b)</num>
+                        <content>
+                            <p>for the transaction of business in Parliament:</p>
+                        </content>
+                    </paragraph>
+                    <wrapUp>
+                        <p> Provided that the English language shall be used for purposes of
+                            communication between the Union and a State which has not adopted Hindi
+                            as its official language:</p>
+                        <p> Provided further that where Hindi is used for purposes of communication
+                            between one State which has adopted Hindi as its official language and
+                            another State which has not adopted Hindi as its official language, such
+                            communication in Hindi shall be accompanied by a translation of the same
+                            in the English language: </p>
+                        <p> Provided also that nothing in this sub-section shall be construed as
+                            preventing a State which has not adopted Hindi as its official language
+                            from using Hindi for purposes of communication with the Union or with a
+                            State which has adopted Hindi as its official language, or by agreement
+                            with any other State, and in such a case, it shall not be obligatory to
+                            use the English language for purposes of communication with that
+                            State.</p>
+                    </wrapUp>
+                </subsection>
+                <subsection eId="sec_3__sse_2">
+                    <num>(2)</num>
+                    <intro>
+                        <p>Notwithstanding anything contained in sub-section (1), where Hindi or the
+                            English language is used for purposes of communication--</p>
+                    </intro>
+
+                    <paragraph>
+                        <num>(i)</num>
+                        <content>
+                            <p>between one Ministry or Department or office of the Central
+                                Government and another;</p>
+                        </content>
+                    </paragraph>
+
+
+                    <paragraph>
+                        <num>(ii)</num>
+                        <content>
+                            <p> between one Ministry or Department or office of the Central
+                                Government and any corporation or company owned or controlled by the
+                                Central Government or any office thereof;</p>
+                        </content>
+                    </paragraph>
+
+
+                    <paragraph>
+                        <num>(iii)</num>
+                        <content>
+                            <p> between any corporation or company owned or controlled by the
+                                Central Government or any office therof and another, a translation
+                                of such communication in the English language or, as the case may
+                                be, in Hindi shall also be provided till such date as the staff of
+                                the concerned Ministry, Department, Office or Corporation or company
+                                aforesaid have acquired a working knowledge of Hindi.</p>
+                        </content>
+                    </paragraph>
+
+                </subsection>
+                <subsection eId="sec_3__sse_3">
+                    <num>(3)</num>
+                    <intro>
+                        <p>Notwithstanding anything contained in <ref href="#sec_3__sse_1">sub-section (1)</ref>, both Hindi and the
+                            English language shall be used for--</p>
+                    </intro>
+                    <paragraph>
+                        <num>(i)</num>
+                        <content>
+                            <p>resolutions, general orders, rules, notifications, administrative or
+                                other reports or press communiques issued or made by the Central
+                                Government or by a Ministry, Department or office thereof or by a
+                                corporation or company owned or controlled by the Central Government
+                                or by any office of such corporation or company;</p>
+                        </content>
+                    </paragraph>
+                    <paragraph>
+                        <num>(ii)</num>
+                        <content>
+                            <p>administrative and other reports and official papers laid before a
+                                House or the Houses of Parliament;</p>
+                        </content>
+                    </paragraph>
+                    <paragraph>
+                        <num>(iii) </num>
+                        <content>
+                            <p>contracts and agreements executed, and licences, permits, notices and
+                                forms of tender issued, by or on behalf of the Central Government or
+                                any Ministry, Department or office thereof or by a corporation or
+                                company owned or controlled by the Central Government or by any
+                                office of such corporation or company.</p>
+                        </content>
+                    </paragraph>
+                </subsection>
+                <subsection eId="sec_3__sse_4">
+                    <num>(4)</num>
+                    <content>
+                        <p>Without prejudice to the provisions of sub-section (1) or sub-section (2)
+                            or sub-section (3), the Central Government may, by rules made under
+                            section 8, provide for the language or languages to be used for the
+                            official purpose of the Union, including the working of any Ministry,
+                            Department, section or office, and in making such rules, due
+                            consideration shall be given to the quick and efficient disposal of the
+                            official business and the interests of the general public and in
+                            particular, the rules so made shall ensure that persons serving in
+                            connection with the affairs of the Union and having proficiency either
+                            in Hindi or in the English language may function effectively and that
+                            they are not placed at a disadvantage on the ground that they do not
+                            have proficiency in both the languages.</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_3__sse_5">
+                    <num>(5)</num>
+                    <content>
+                        <p>The provisions of clause (a) of sub-section (1), and the provisions of
+                            sub-section (2), sub-section (3) and sub-section (4) shall remain in
+                            force until resolutions for the discontinuance of the use of the English
+                            language for the purposes mentioned therein have been passed by the
+                            Legislatures of all the States which have not adopted Hindi as their
+                            official language and until after considering the resolutions aforesaid,
+                            a resolution for such discontinuance has been passed by each House of
+                            Parliament.</p>
+                    </content>
+                </subsection>
+            </section>
+
+            <section eId="sec_4">
+                <num> 4.</num>
+                <heading> Committee on Official Language.</heading>
+                <subsection eId="sec_4__sse_1">
+                    <num>(1)</num>
+                    <content>
+                        <p>After the expiration of ten years from the date on which section 3 comes
+                            into force, there shall be constituted a Committee on Official Language,
+                            on a resolution to that effect being moved in either House of Parliament
+                            with the previous sanction of the President and passed by both
+                            Houses.</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_4__sse_2">
+                    <num>(2)</num>
+                    <content>
+                        <p>The Committee shall consist of thirty members, of whom twenty shall be
+                            members of the House of the People and ten shall be members of the
+                            Council of States, to be elected, respectively by the members of the
+                            House of the People and the members of the Council of States in
+                            accordance with the system of proportional representation by means of
+                            the single transferable vote.</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_4__sse_3">
+                    <num>(3)</num>
+                    <content>
+                        <p>It shall be the duty of the Committee to review the progress made in the
+                            use of Hindi for the official purposes of the Union and submit a report
+                            to the President making recommendations thereon and the President shall
+                            cause the report to be laid before each House of Parliament, and sent to
+                            all the State Governments.</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_4__sse_4">
+                    <num>(4)</num>
+                    <content>
+                        <p>The President may, after consideration of the report referred to in
+                            sub-section (3), and the views, if any, expressed by the State
+                            Governments thereon, issue directions in accordance with the whole or
+                            any part of that report:</p>
+                        <p>
+                            <noteRef href="#mod_note_3" marker="1"/>
+                            <span class="insertion" eId="sec_4__sse_4__mod_2">Provided that the
+                                directions so issued shall not be inconsistent with the provisions
+                                of section 3.</span>
+                        </p>
+                    </content>
+                </subsection>
+            </section>
+            <section eId="sec_5">
+
+                <num> 5.</num>
+                <heading>Authorised Hindi translation of Central Acts, etc. </heading>
+                <subsection eId="sec_5__sse_1">
+                    <!-- S. 5(1)  comes into force on the 10th January, 1965, vide Notifn.
+ No. S.O.  94, dated  the 4th  January, 1965, Gazette of India, Pt. II,
+ Sec. 3(ii),  p. 128; -->
+                    <num>(1)</num>
+                    <intro>
+                        <p>A translation in Hindi published under the authority of the President in
+                            the Official Gazette on and after the appointed day,--</p>
+                    </intro>
+                    <paragraph>
+                        <num>(a)</num>
+                        <content>
+                            <p> of any Central Act or of any Ordinance promulgated by the President,
+                                or </p>
+                        </content>
+                    </paragraph>
+                    <paragraph>
+                        <num>(b)</num>
+                        <content>
+                            <p> of any order, rule, regulation or bye-law issued under the
+                                Constitution or under any Central Act, shall be deemed to be the
+                                authoritative text thereof in Hindi. </p>
+                        </content>
+                    </paragraph>
+                </subsection>
+                <subsection eId="sec_5__sse_2">
+                    <num>(2)</num>
+                    <content>
+                        <p>As from the appointed day, the authoritative text in the English language
+                            of all Bills to be introduced or amendments thereto to be moved in
+                            either House of Parliament shall be accompanied by a translation of the
+                            same in Hindi authorised in such manner as may be prescribed by rules
+                            made under this Act.</p>
+                    </content>
+                </subsection>
+            </section>
+            <section eId="sec_6">
+                <num> 6.</num>
+                <heading>Authorised Hindi translation of State Acts in certain cases.</heading>
+                <content>
+                    <p> Where the Legislature of a State has prescribed any language other than
+                        Hindi for use in Acts passed by the Legislature of the State or in
+                        Ordinances promulgated by the Governor of the State, a translation of the
+                        same in Hindi, in addition to a translation thereof in the English language
+                        as required by clause (3) of article 348 of the Constitution, may be
+                        published on or after the appointed day under the authority of the Governor
+                        of the State in the Official Gazette of that State and in such a case, the
+                        translation in Hindi of any such Act or Ordinance shall be deemed to be the
+                        authoritative text thereof in the Hindi language.</p>
+                </content>
+            </section>
+
+            <section eId="sec_7">
+
+                <num>7.</num>
+                <heading>Optional use of Hindi or other official language in judgments, etc., of
+                    High Courts.</heading>
+                <content>
+                    <p>As from the appointed day or any day thereafter, the Governor of a State may,
+                        with the previous consent of the President, authorise the use of Hindi or
+                        the official language of the State, in addition to the English language, for
+                        the purposes of any judgment, decree or order passed or made by the High
+                        Court for that State and where any judgment, decree or order is passed or
+                        made in any such language (other than the English language), it shall be
+                        accompanied by a translation of the same in the English language issued
+                        under the authority of the High Court.</p>
+                </content>
+            </section>
+            <section eId="sec_8">
+
+                <num> 8. </num>
+                <heading>Power to make rules.</heading>
+                <subsection eId="sec_8__sse_1"> 
+                    <num>(1)</num>
+                    <content>
+                        <p>The Central Government may, by notification in the Official Gazette, make
+                            rules for carrying out the purposes of this Act.</p>
+                    </content>
+                </subsection>
+                <subsection eId="sec_8__sse_2">
+                    <num>(2)</num>
+                    <content>
+                        <p>Every rule made under this section shall be laid, as soon as may be after
+                            it is made, before each House of Parliament while it is in session for a
+                            total period of thirty days which may be comprised in one session or
+                            <noteRef href="#mod_note_4" marker="1" placement="bottom"/>
+                            <span class="substitution" eId="sec_8__sse_2__mod_4"> in two or more successive sessions, and if, before the expiry of the
+                            session immediately following the session or the successive sessions
+                            aforesaid</span> both Houses agree in making any modification in the rule or
+                            both Houses agree that the rule should not be made, the rule shall
+                            thereafter have effect only in such modified form or be of no effect, as
+                            the case may be, so however, that any such modification or annulment
+                            shall be without prejudice to the validity of anything previously done
+                            under that rule.</p>
+                    </content>
+                </subsection>
+            </section>
+            <section eId="sec_9">
+                <num>9. </num>
+                <heading>Certain provisions not to apply to Jammu and Kashmir.</heading>
+                <content>
+                      <p>The provisions of <ref href="#sec_6">section 6</ref> and <ref href="#sec_7">section 7</ref> shall not apply to the State of Jammu
+                        and Kashmir.</p>
+                </content>
+            </section>
+        </body>
+    </act>
+</akomaNtoso>

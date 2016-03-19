@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia/resources/images" version="1" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:32:59.958+05:30">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bold.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.996+05:30" modified="2016-03-02T23:33:01.126+05:30" filename="bold.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="code.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.992+05:30" modified="2016-03-02T23:33:01.13+05:30" filename="code.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="delete-icon.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.973+05:30" modified="2016-03-02T23:33:01.134+05:30" filename="delete-icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="existdb.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.97+05:30" modified="2016-03-02T23:33:01.139+05:30" filename="existdb.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.965+05:30" modified="2016-03-02T23:33:01.143+05:30" filename="glyphicons-halflings.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-bot.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.031+05:30" modified="2016-03-02T23:33:01.146+05:30" filename="grey-box-bot.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-rpt.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.026+05:30" modified="2016-03-02T23:33:01.15+05:30" filename="grey-box-rpt.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="grey-box-top.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.022+05:30" modified="2016-03-02T23:33:01.156+05:30" filename="grey-box-top.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="header.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.019+05:30" modified="2016-03-02T23:33:01.163+05:30" filename="header.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="horizontal.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.014+05:30" modified="2016-03-02T23:33:01.168+05:30" filename="horizontal.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="italic.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.052+05:30" modified="2016-03-02T23:33:01.174+05:30" filename="italic.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav-dropdown.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.043+05:30" modified="2016-03-02T23:33:01.177+05:30" filename="nav-dropdown.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav-dropdown.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.039+05:30" modified="2016-03-02T23:33:01.182+05:30" filename="nav-dropdown.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nav.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.035+05:30" modified="2016-03-02T23:33:01.19+05:30" filename="nav.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="page-edit-icon.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.047+05:30" modified="2016-03-02T23:33:01.196+05:30" filename="page-edit-icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenu.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.011+05:30" modified="2016-03-02T23:33:01.113+05:30" filename="bgmenu.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bgmenuhi.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.007+05:30" modified="2016-03-02T23:33:01.116+05:30" filename="bgmenuhi.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body-base.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.002+05:30" modified="2016-03-02T23:33:01.119+05:30" filename="body-base.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="body.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.999+05:30" modified="2016-03-02T23:33:01.122+05:30" filename="body.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

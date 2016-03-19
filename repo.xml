@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Lex India</description>
+    <author>Ashok</author>
+    <author>Ashok</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>lexindia</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="lexindia" group="lexindia" mode="rw-rw-r--"/>
+<deployed>2016-03-02T23:33:01.218+05:30</deployed></meta>

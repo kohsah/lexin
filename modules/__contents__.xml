@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia/modules" version="1" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:33:00.074+05:30">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:33:00.103+05:30" modified="2016-03-19T01:38:25.71+05:30" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api.xqm" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-18T17:16:44.614+05:30" modified="2016-03-18T18:07:03.328+05:30" filename="api.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:33:00.08+05:30" modified="2016-03-02T23:33:01.104+05:30" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:33:00.088+05:30" modified="2016-03-03T11:42:29.247+05:30" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
