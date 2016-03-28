@@ -3,7 +3,7 @@
     <resource type="BinaryResource" name="test.xql" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-04T10:58:51.678+05:30" modified="2016-03-04T11:02:22.798+05:30" filename="test.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="view-lex.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-19T01:40:11.643+05:30" modified="2016-03-19T01:40:13.942+05:30" filename="view-lex.html" mimetype="text/html">
+    <resource type="XMLResource" name="view-lex.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-19T01:40:11.643+05:30" modified="2016-03-28T09:34:14.119+05:30" filename="view-lex.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.881+05:30" modified="2016-03-02T23:33:01.082+05:30" filename="expath-pkg.xml" mimetype="application/xml">
@@ -15,7 +15,7 @@
     <resource type="XMLResource" name="build.xml" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.128+05:30" modified="2016-03-02T23:33:01.062+05:30" filename="build.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="index.html" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.914+05:30" modified="2016-03-18T19:28:40.932+05:30" filename="index.html" mimetype="text/html">
+    <resource type="XMLResource" name="index.html" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.914+05:30" modified="2016-03-21T15:26:19.713+05:30" filename="index.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="error-page.html" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:32:59.92+05:30" modified="2016-03-02T23:33:01.076+05:30" filename="error-page.html" mimetype="text/html">
@@ -33,10 +33,14 @@
     <resource type="XMLResource" name="lex.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-03T11:11:11.628+05:30" modified="2016-03-03T11:11:50.125+05:30" filename="lex.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <subcollection name="resources" filename="resources"/>
-    <subcollection name="docs" filename="docs"/>
+    <resource type="XMLResource" name="timeline.html" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-24T19:25:38.346+05:30" modified="2016-03-24T19:42:01.148+05:30" filename="timeline.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
     <subcollection name="images" filename="images"/>
     <subcollection name="templates" filename="templates"/>
-    <subcollection name="modules" filename="modules"/>
+    <subcollection name="docs" filename="docs"/>
     <subcollection name="assets" filename="assets"/>
+    <subcollection name="xslt" filename="xslt"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="resources" filename="resources"/>
 </collection>

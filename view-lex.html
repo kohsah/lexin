@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
-   <article id="main">
-			<header>
-				<h2><a href="#">Laws</a></h2>
-				<p>
-					Indian Legislation - Point-in-Time aware
-				</p>
-			</header>
-          <div data-template="app:lex-list">Lex</div>
-          <!-- 
+   <div class="8u 12u(mobile)" id="content-left">
+   	     <div data-template="app:lex-html" data-template-uri="/any/lex/uri">
+         <article id="main">
+            <header>
+               <h2>
+                  <a href="#">Laws</a>
+               </h2>
+               <p> Indian Legislation - Point-in-Time aware </p>
+            </header>
+            <div data-template="app:lex-list">Lex</div>
+            <!-- 
           <p>
 				Commodo id natoque malesuada sollicitudin elit suscipit. Curae suspendisse mauris posuere accumsan massa
 				posuere lacus convallis tellus interdum. Amet nullam fringilla nibh nulla convallis ut venenatis purus
@@ -31,5 +33,27 @@
 				</p>
 			</section>
 			-->
- </article>
+         </article>
+      </div>
+   </div>
+   <!-- " -->
+   <div class="4u 12u(mobile)" id="sidebar-right"> 
+   	  <div>
+   	  	 <h2 style="font-size: 1.2em;     text-align: center;">Color Key Indicator</h2>
+   	  	<div>
+   	  	 <div class="colorkey" style="background-color:#D1F2EB;"/>
+   	  		<span style="font-size:.8em;">
+            Substitution - Text that has been substituted</span>
+   	  	</div>
+   	  	<div>
+         <div class="colorkey" style="background-color:rgba(53, 197, 62, 0.43);"/>
+   	  		<span style="font-size:.8em;">
+            Insertion - New text has been  introduced</span>
+   	  	</div>
+   	  </div>
+      <div data-template="app:lex-toc" data-template-uri="/any/lex/uri">
+      </div>
+      <div data-template="app:lex-meta" data-template-uri="/any/lex/uri">
+      </div>
+   </div>
 </div>

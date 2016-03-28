@@ -37,6 +37,7 @@ declare variable $config:expath-descriptor := doc(concat($config:app-root, "/exp
 
 declare variable $config:app-docs := collection(concat($config:app-root, "/docs"));
 
+declare variable $config:app-xslt := concat($config:app-root, '/xslt');
 
 (:~
  : Resolve the given path using the current application context.
@@ -105,4 +106,8 @@ declare function config:app-info($node as node(), $model as map(*)) {
 
 declare function config:app-docs(){
   $config:app-docs
+};
+
+declare function config:xslt($filename as xs:string) {
+    doc(concat($config:app-xslt, "/", $filename))
 };

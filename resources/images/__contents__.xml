@@ -45,6 +45,12 @@
     <resource type="BinaryResource" name="page-edit-icon.png" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.047+05:30" modified="2016-03-02T23:33:01.196+05:30" filename="page-edit-icon.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
+    <resource type="BinaryResource" name="icon-collapse.gif" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-21T18:23:04.602+05:30" modified="2016-03-21T18:23:04.602+05:30" filename="icon-collapse.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon-expand.gif" skip="no" owner="lexindia" group="lexindia" mode="644" created="2016-03-21T18:23:04.622+05:30" modified="2016-03-21T18:23:04.622+05:30" filename="icon-expand.gif" mimetype="image/gif">
+        <acl entries="0" version="1"/>
+    </resource>
     <resource type="BinaryResource" name="bgmenu.gif" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.011+05:30" modified="2016-03-02T23:33:01.113+05:30" filename="bgmenu.gif" mimetype="image/gif">
         <acl entries="0" version="1"/>
     </resource>

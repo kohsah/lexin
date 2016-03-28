@@ -81,7 +81,8 @@
 
             <notes source="#editors-office">
                 <note eId="prefatory-note">
-                    <p><b>Prefatory Note – Statement of Objects and Reasons.</b> – Article 39 of
+                    <p>
+                        <b>Prefatory Note – Statement of Objects and Reasons.</b> – Article 39 of
                         Constitution envisages that the State shall direct its policy, among other
                         things, towards securing that there is equal pay for equal work for both men
                         and women. To give effect to this constitutional provision, the President
@@ -94,7 +95,8 @@
                     <p>(2) The Ordinance also ensures that there will be no discrimination against
                         recruitment of women and provides for the setting up of Advisory committees
                         to promote employment opportunities for women. </p>
-                    <p>(3) The Bill seeks to replace the Ordinance. <noteRef href="#repl-ordinance" marker="1" placement="bottom"/></p>
+                    <p>(3) The Bill seeks to replace the Ordinance. <noteRef href="#repl-ordinance" marker="1" placement="bottom"/>
+                    </p>
                 </note>
 
                 <note eId="repl-ordinance">
@@ -118,7 +120,8 @@
                 </note>
 
                 <note eId="note_expl_12">
-                    <p><b>Explanation.</b> –For the purposes of this sub-section “recognized welfare
+                    <p>
+                        <b>Explanation.</b> –For the purposes of this sub-section “recognized welfare
                         institution or organization” means a social welfare organization or
                         institution recognized in this behalf by the Central or State
                         Government.</p>
@@ -158,7 +161,8 @@
                     connected therewith or incidental thereto.</docTitle>
             </p>
             <p>BE it enacted by Parliament in the Twenty-seventh Year of the Republic of India as
-                follows: <noteRef href="#prefatory-note" placement="inline"/></p>
+                follows: <noteRef href="#prefatory-note" placement="inline"/>
+            </p>
         </preamble>
         <body>
             <chapter eId="cha_1">
@@ -306,7 +310,7 @@
             </chapter>
 
             <chapter eId="cha_2">
-                <num title="CHAPTER - III">CHAPTER - III</num>
+                <num title="CHAPTER - II">CHAPTER - II</num>
                 <heading>PAYMENT OF REMUNERATION AT EQUAL RATES TO MEN AND WOMEN WORKERS AND OTHER
                     MATTERS </heading>
                 <section eId="cha_2__sec_4">
@@ -731,7 +735,8 @@
                             </content>
                         </paragraph>
                         <wrapUp eId="cha_3__sec_10__sse_2__wrp_1">
-                            <p>he shall be punishable <noteRef marker="4" href="#note_mod_3"/><span class="substitution" eId="cha_2__sec_10__mod_3">with fine which
+                            <p>he shall be punishable <noteRef marker="4" href="#note_mod_3"/>
+                                <span class="substitution" eId="cha_2__sec_10__mod_3">with fine which
                                     shall not be less than ten thousand rupees but which may extend
                                     to twenty thousand rupees or with imprisonment for a term which
                                     shall be not less than three months but which may extend to one
@@ -782,7 +787,8 @@
                                 director, manager, secretary or other officer of the company, such
                                 director, manager, secretary or other officer shall be deemed to be
                                 guilty of that offence and shall be liable to be proceeded against
-                                and punished accordingly.<noteRef href="#note_expl_11"/></p>
+                                and punished accordingly.<noteRef href="#note_expl_11"/>
+                            </p>
 
                         </content>
 
@@ -792,7 +798,8 @@
 
 
                 <section eId="cha_3__sec_12" period="#event_2">
-                    <num><noteRef href="#mod_note_4" marker="5" placement="bottom"/>12.</num>
+                    <num>
+                        <noteRef href="#mod_note_4" marker="5" placement="bottom"/>12.</num>
                     <heading>Cognizance and trial of offences. --</heading>
                     <subsection>
                         <num>(1)</num>
@@ -898,7 +905,8 @@
                 </section>
 
                 <section eId="cha_3__sec_15__e1" period="#event_2">
-                    <num><noteRef href="#note_mod_4"/>15.</num>
+                    <num>
+                        <noteRef href="#note_mod_4"/>15.</num>
                     <heading>Act not to apply in certain special cases. --</heading>
                     <intro>
                         <p>Nothing in this Act shall apply—</p>

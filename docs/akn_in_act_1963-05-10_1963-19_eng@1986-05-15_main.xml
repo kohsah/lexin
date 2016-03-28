@@ -28,7 +28,7 @@
                 </FRBRManifestation>
             </identification>
 
-            <publication date="1963-05-10" showAs="Official Languages Act" name="officialLanguagesAct" number="1963-19"/>
+            <publication date="1986-05-15" showAs="Official Languages Act" name="officialLanguagesAct" number="1963-19"/>
 
             <lifecycle source="#ashok">
                 <eventRef eId="event_1" date="1963-05-10" source="#ro1" type="generation"/>
@@ -112,7 +112,7 @@
             <p>
                 <docNumber refersTo="#currentAct">ACT NO. 19 OF 1963</docNumber>
             </p>
-            <p> [<docDate date="1963-05-10">10th May, 1963</docDate>.] </p>
+            <p> <docDate date="1963-05-10">10th May, 1963</docDate> </p>
         </preface>
         <preamble>
             <p>
@@ -131,13 +131,13 @@
                 <num> 1. </num>
                 <heading>Short title and commencement. </heading>
                 <subsection eId="sec_1__sse_1">
-                    <paragraph>
+                    <paragraph eId="sec_1__sse_1__para_1">
                         <num>(1)</num>
                         <content>
                             <p>This Act may be called the Official Languages Act, 1963.</p>
                         </content>
                     </paragraph>
-                    <paragraph>
+                    <paragraph eId="sec_1__sse_1__para_2">
                         <num>(2)</num>
                         <content>
                             <p>Section 3 shall come into force on the 26th day of January, 1965 and
@@ -173,7 +173,7 @@
                 </subsection>
             </section>
 
-            <section eId="sec_3">
+            <section eId="sec_3" class="substitution">
                 <num>
                     <noteRef href="#mod_note_2" marker="2" placement="bottom"/>3.</num>
                 <heading>Continuance of English language for official purposes of the Union and for
@@ -185,20 +185,20 @@
                             commencement of the Constitution, the English language may, as from the
                             appointed day, continue to be used, in addition to Hindi,--</p>
                     </intro>
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_1__para_1">
                         <num>(a)</num>
                         <content>
                             <p>for all the official purposes of the Union for which it was being
                                 used immediately before that day; and</p>
                         </content>
                     </paragraph>
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_1__para_2">
                         <num>(b)</num>
                         <content>
                             <p>for the transaction of business in Parliament:</p>
                         </content>
                     </paragraph>
-                    <wrapUp>
+                    <wrapUp eId="sec_3__sse_1__wrapup">
                         <p> Provided that the English language shall be used for purposes of
                             communication between the Union and a State which has not adopted Hindi
                             as its official language:</p>
@@ -223,7 +223,7 @@
                             English language is used for purposes of communication--</p>
                     </intro>
 
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_2__para_1">
                         <num>(i)</num>
                         <content>
                             <p>between one Ministry or Department or office of the Central
@@ -232,17 +232,17 @@
                     </paragraph>
 
 
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_2__para_2">
                         <num>(ii)</num>
                         <content>
-                            <p> between one Ministry or Department or office of the Central
+                            <p>between one Ministry or Department or office of the Central
                                 Government and any corporation or company owned or controlled by the
                                 Central Government or any office thereof;</p>
                         </content>
                     </paragraph>
 
 
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_2__para_3">
                         <num>(iii)</num>
                         <content>
                             <p> between any corporation or company owned or controlled by the
@@ -261,7 +261,7 @@
                         <p>Notwithstanding anything contained in <ref href="#sec_3__sse_1">sub-section (1)</ref>, both Hindi and the
                             English language shall be used for--</p>
                     </intro>
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_3__para_1">
                         <num>(i)</num>
                         <content>
                             <p>resolutions, general orders, rules, notifications, administrative or
@@ -271,14 +271,14 @@
                                 or by any office of such corporation or company;</p>
                         </content>
                     </paragraph>
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_3__para_2">
                         <num>(ii)</num>
                         <content>
                             <p>administrative and other reports and official papers laid before a
                                 House or the Houses of Parliament;</p>
                         </content>
                     </paragraph>
-                    <paragraph>
+                    <paragraph eId="sec_3__sse_3__para_3">
                         <num>(iii) </num>
                         <content>
                             <p>contracts and agreements executed, and licences, permits, notices and

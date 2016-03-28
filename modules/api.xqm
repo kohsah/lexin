@@ -36,3 +36,14 @@ declare function api:lex-list-latest() {
                  }
                 </api:docs>
 };
+
+
+declare function api:lex-by-uri($uri as xs:string) {
+    let $acts := $config:app-docs/an:akomaNtoso[
+                        an:act[@name eq 'act']
+                    ][
+                        .//an:FRBRExpression/an:FRBRthis/@value eq $uri
+                    ]
+                    
+  return $acts[1]                 
+};

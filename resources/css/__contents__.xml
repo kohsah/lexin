@@ -1,6 +1,6 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/lexindia/resources/css" version="1" owner="lexindia" group="lexindia" mode="775" created="2016-03-02T23:33:00.062+05:30">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="style.css" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.067+05:30" modified="2016-03-02T23:33:01.108+05:30" filename="style.css" mimetype="text/css">
+    <resource type="BinaryResource" name="style.css" skip="no" owner="lexindia" group="lexindia" mode="664" created="2016-03-02T23:33:00.067+05:30" modified="2016-03-28T09:34:00.986+05:30" filename="style.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
 </collection>
